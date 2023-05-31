@@ -4,8 +4,7 @@
 Anaconda Python (to get ML Libraries)
 
 ### 2. Required Dataset
-Dataset can be found on UCI Machine Learning Repository:
-https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+Dataset can be found on UCI Machine Learning Repository
 
 #### Attribute Information:
 1.	ID number
