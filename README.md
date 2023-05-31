@@ -1,6 +1,6 @@
 # Breast Cancer Detection Web Application
 
-## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
+## A Web Application to predict Breast Cancer using SVM  
 
 
 ### 1.Project Requirements or Dependencies
@@ -41,5 +41,4 @@ Use this for prediction for model and to show the output
  
 ### 7.Integrating web application with machine learning backend.
 
-### 8. Deployment on Heroku
 
