@@ -29,7 +29,7 @@ Python app.py
 http://127.0.0.1:5000/
 
 1.	Breast_Cancer_Detection.ipynb — This contains code for the machine learning model to predict cancer based on the class.
-2.	app.py — This contains Flask APIs that receives cells details through GUI or API calls, computes the predicted value based on our model and returns it
+2.	app.py or app.inpynb — This contains Flask APIs that receives cells details through GUI or API calls, computes the predicted value based on our model and returns it
 3.	templates & static  — This folders contains the HTML template and CSS styling to allow user to enter cells details and displays the predicted output.
 
 ### 5.Backend creation using model.pkl file
